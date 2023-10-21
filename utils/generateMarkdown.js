@@ -48,8 +48,9 @@ ${data.description}
 - [License](#License)
 - [Contributing](#Contributing)
 - [Tests](#Tests)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies-Used)
 - [Questions](#Questions)
+- [Credits](#Credits)
 
 ## Installation
 
@@ -78,6 +79,10 @@ ${data.technologies}
 ## Questions
 
 If there are any questions, feel free to reachout to me on [GitHub](https://github.com/${data.github}), or send me an [email](mailto:${data.email}).
+
+## Credits
+
+This README was generated using [README Generator](https://github.com/tavargas9/README-generator) created by [Tomas Vargas](https://github.com/tavargas9).
 `;
 };
 
